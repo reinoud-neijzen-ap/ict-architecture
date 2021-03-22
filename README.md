@@ -1,6 +1,6 @@
 # ict-architecture
 
-## Project Groep 
+## Project Groep 11
 
 Deze repository bevat al onze broncode en configuratie screenshots.  
 
